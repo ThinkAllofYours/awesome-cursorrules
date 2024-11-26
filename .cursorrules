@@ -1,82 +1,82 @@
 // Awesome CursorRules
-// A curated list of awesome .cursorrules files for enhancing Cursor AI experience
+// Cursor AI 경험을 향상시키기 위한 멋진 .cursorrules 파일 모음
 
-// General guidelines
-Always use Markdown for documentation and README files
-Maintain the existing structure of the README.md file
+// 일반 가이드라인
+문서와 README 파일에는 항상 Markdown을 사용하세요
+README.md 파일의 기존 구조를 유지하세요
 
-// README.md structure
-Maintain the following structure in the README.md file:
-  1. Title and Awesome badge
-  2. Logo
-  3. Short description
-  4. "Why .cursorrules?" section
-  5. Table of Contents
-  6. Rules section
-     - Frontend Frameworks and Libraries
-     - Backend and Full-Stack
-     - Mobile Development
-     - CSS and Styling
-     - State Management
-     - Database and API
-     - Testing
-     - Build Tools and Development
-     - Language-Specific
-     - Other
-  7. How to Use section
-  8. Contributing section
-  9. License section
+// README.md 구조
+README.md 파일에서 다음 구조를 유지하세요:
+  1. 제목과 Awesome 뱃지
+  2. 로고
+  3. 간단한 설명
+  4. ".cursorrules가 필요한 이유?" 섹션
+  5. 목차
+  6. 규칙 섹션
+     - 프론트엔드 프레임워크와 라이브러리
+     - 백엔드와 풀스택
+     - 모바일 개발
+     - CSS와 스타일링
+     - 상태 관리
+     - 데이터베이스와 API
+     - 테스팅
+     - 빌드 도구와 개발
+     - 언어별
+     - 기타
+  7. 사용 방법 섹션
+  8. 기여 섹션
+  9. 라이선스 섹션
 
-// Organization of rules
-Organize .cursorrules files into the following main categories within the 'rules' directory:
-  - Frontend Frameworks and Libraries
-  - Backend and Full-Stack
-  - Mobile Development
-  - CSS and Styling
-  - State Management
-  - Database and API
-  - Testing
-  - Build Tools and Development
-  - Language-Specific
-  - Other
-Place each .cursorrules file directly in the 'rules' folder
-The folder name for each .cursorrules file should describe the category and content of the file
-Refer to the README in each folder for guidance on naming conventions and descriptions
+// 규칙 구성
+'rules' 디렉토리 내에서 .cursorrules 파일을 다음과 같은 주요 카테고리로 구성하세요:
+  - 프론트엔드 프레임워크와 라이브러리
+  - 백엔드와 풀스택
+  - 모바일 개발
+  - CSS와 스타일링
+  - 상태 관리
+  - 데이터베이스와 API
+  - 테스팅
+  - 빌드 도구와 개발
+  - 언어별
+  - 기타
+각 .cursorrules 파일을 'rules' 폴더에 직접 배치하세요
+각 .cursorrules 파일의 폴더 이름은 해당 파일의 카테고리와 내용을 설명해야 합니다
+명명 규칙과 설명에 대한 지침은 각 폴더의 README를 참조하세요
 
-// Naming and formatting
-Use descriptive names for .cursorrules files and their folders, following the pattern: 'technology-focus-cursorrules-prompt-file'
-Maintain alphabetical order within each category in the README.md file
-Use consistent formatting for list items in the README.md file
+// 명명과 포맷팅
+.cursorrules 파일과 폴더에 'technology-focus-cursorrules-prompt-file' 패턴을 따르는 설명적인 이름을 사용하세요
+README.md 파일의 각 카테고리 내에서 알파벳 순서를 유지하세요
+README.md 파일의 목록 항목에 일관된 포맷팅을 사용하세요
 
-// Content guidelines
-When creating or editing .cursorrules files, focus on project-specific instructions and best practices
-Include comments in .cursorrules files to explain complex rules or provide context
-Use clear and concise language in all documentation and .cursorrules files
-Provide context on what you're building, style guidelines, or info on commonly-used methods
+// 콘텐츠 가이드라인
+.cursorrules 파일을 생성하거나 편집할 때는 프로젝트별 지침과 모범 사례에 중점을 두세요
+.cursorrules 파일에 복잡한 규칙을 설명하거나 맥락을 제공하는 주석을 포함하세요
+모든 문서와 .cursorrules 파일에서 명확하고 간결한 언어를 사용하세요
+무엇을 구축하는지, 스타일 가이드라인 또는 자주 사용되는 메서드에 대한 정보를 제공하세요
 
-// Optional README for credit and description
-Each .cursorrules file may have an accompanying README.md file in its folder
-Use this README to provide credit to the original author and a brief description of the .cursorrules file's purpose
+// 선택적 README 크레딧과 설명
+각 .cursorrules 파일에는 해당 폴더에 README.md 파일이 동반될 수 있습니다
+이 README를 사용하여 원작자에 대한 크레딧과 .cursorrules 파일의 목적에 대한 간단한 설명을 제공하세요
 
-// Maintenance and updates
-Update the README.md file when adding new .cursorrules files, placing them in the correct category
-Ensure all links in the README.md file are relative and correct
-When updating the README.md, ensure the table of contents remains accurate
-When adding new categories, update both the 'Contents' and 'Rules' sections of the README.md
-Regularly review and update categorization as the repository grows
+// 유지보수와 업데이트
+새로운 .cursorrules 파일을 추가할 때 README.md 파일을 업데이트하고 올바른 카테고리에 배치하세요
+README.md 파일의 모든 링크가 상대적이고 정확한지 확인하세요
+README.md를 업데이트할 때 목차가 정확한지 확인하세요
+새로운 카테고리를 추가할 때 README.md의 '목차'와 '규칙' 섹션을 모두 업데이트하세요
+저장소가 성장함에 따라 정기적으로 분류를 검토하고 업데이트하세요
 
-// Best practices
-Maintain consistency in capitalization and punctuation throughout the repository
-When referencing Cursor AI, always use the correct capitalization and spacing
-When adding examples or explanations, focus on practical use cases for Cursor AI users
-If a .cursorrules file fits multiple categories, place it in the most relevant one and cross-reference in others if necessary
-Keep the 'Other' category for .cursorrules files that don't fit neatly into the main categories
+// 모범 사례
+저장소 전체에서 대소문자와 문장부호의 일관성을 유지하세요
+Cursor AI를 참조할 때는 항상 올바른 대소문자와 간격을 사용하세요
+예제나 설명을 추가할 때는 Cursor AI 사용자를 위한 실용적인 사용 사례에 중점을 두세요
+.cursorrules 파일이 여러 카테고리에 적합한 경우, 가장 관련성이 높은 곳에 배치하고 필요한 경우 다른 곳에서 상호 참조하세요
+'기타' 카테고리는 주요 카테고리에 깔끔하게 맞지 않는 .cursorrules 파일을 위해 유지하세요
 
-// Additional insights
-.cursorrules files are repo-specific "Rules for AI"
-.cursorrules files should be placed in the root of the repository
-The content of .cursorrules files will be appended to the global "Rules for AI" settings in Cursor
-Focus on providing repo-level context and guidelines, not just general coding practices
-.cursorrules can include information about project structure, architectural decisions, and commonly used libraries or methods
-Consider including rules for handling specific file types or coding patterns unique to your project
-Rules can cover both code generation and code understanding aspects for Cursor AI
+// 추가 통찰
+.cursorrules 파일은 저장소별 "AI를 위한 규칙"입니다
+.cursorrules 파일은 저장소의 루트에 배치되어야 합니다
+.cursorrules 파일의 내용은 Cursor의 전역 "AI를 위한 규칙" 설정에 추가됩니다
+일반적인 코딩 관행뿐만 아니라 저장소 수준의 컨텍스트와 가이드라인 제공에 중점을 두세요
+.cursorrules는 프로젝트 구조, 아키텍처 결정, 일반적으로 사용되는 라이브러리나 메서드에 대한 정보를 포함할 수 있습니다
+프로젝트에 고유한 특정 파일 유형이나 코딩 패턴을 처리하기 위한 규칙을 포함하는 것을 고려하세요
+규칙은 Cursor AI의 코드 생성과 코드 이해 측면을 모두 다룰 수 있습니다

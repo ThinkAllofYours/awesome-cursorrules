@@ -1,116 +1,42 @@
 CC0 1.0 Universal
 
-Statement of Purpose
+목적 선언문
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator and
-subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+전 세계 대부분의 관할권의 법률은 원저작물 및/또는 데이터베이스(각각 "저작물")의 창작자와 후속 소유자(들)(각각 및 모두를 "소유자"라 함)에게 자동으로 독점적인 저작권 및 관련 권리(아래에서 정의됨)를 부여합니다.
 
-Certain owners wish to permanently relinquish those rights to a Work for the
-purpose of contributing to a commons of creative, cultural and scientific
-works ("Commons") that the public can reliably and without fear of later
-claims of infringement build upon, modify, incorporate in other works, reuse
-and redistribute as freely as possible in any form whatsoever and for any
-purposes, including without limitation commercial purposes. These owners may
-contribute to the Commons to promote the ideal of a free culture and the
-further production of creative, cultural and scientific works, or to gain
-reputation or greater distribution for their Work in part through the use and
-efforts of others.
+일부 소유자들은 창의적, 문화적, 과학적 저작물의 공유("공유물")에 기여하기 위해 이러한 권리를 영구적으로 포기하고자 합니다. 이는 대중이 신뢰할 수 있고 향후 침해 주장에 대한 두려움 없이 어떠한 형태로든, 상업적 목적을 포함한 모든 목적으로 자유롭게 저작물을 기반으로 하여 수정, 다른 저작물에 통합, 재사용 및 재배포할 수 있도록 하기 위함입니다. 이러한 소유자들은 자유 문화의 이상과 창의적, 문화적, 과학적 저작물의 추가 생산을 촉진하거나, 타인의 이용과 노력을 통해 자신의 저작물에 대한 평판이나 더 넓은 배포를 얻기 위해 공유물에 기여할 수 있습니다.
 
-For these and/or other purposes and motivations, and without any expectation
-of additional consideration or compensation, the person associating CC0 with a
-Work (the "Affirmer"), to the extent that he or she is an owner of Copyright
-and Related Rights in the Work, voluntarily elects to apply CC0 to the Work
-and publicly distribute the Work under its terms, with knowledge of his or her
-Copyright and Related Rights in the Work and the meaning and intended legal
-effect of CC0 on those rights.
+이러한 목적과 동기, 그리고 추가적인 대가나 보상에 대한 기대 없이, CC0를 저작물과 연관시키는 사람("확인자")은 자신이 저작물의 저작권 및 관련 권리의 소유자인 한도 내에서, 자발적으로 저작물에 CC0를 적용하고 그 조건에 따라 저작물을 공개적으로 배포하기로 선택합니다. 이는 저작물에 대한 자신의 저작권 및 관련 권리와 CC0가 이러한 권리에 미치는 의미와 의도된 법적 효과를 인지한 상태에서 이루어집니다.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not limited
-to, the following:
+1. 저작권 및 관련 권리. CC0에 따라 이용 가능하게 된 저작물은 저작권 및 관련 또는 인접 권리("저작권 및 관련 권리")에 의해 보호될 수 있습니다. 저작권 및 관련 권리는 다음을 포함하되 이에 국한되지 않습니다:
 
-  i. the right to reproduce, adapt, distribute, perform, display, communicate,
-  and translate a Work;
+  i. 저작물을 복제, 각색, 배포, 공연, 전시, 전달 및 번역할 권리;
 
-  ii. moral rights retained by the original author(s) and/or performer(s);
+  ii. 원저작자(들) 및/또는 실연자(들)가 보유하는 저작인격권;
 
-  iii. publicity and privacy rights pertaining to a person's image or likeness
-  depicted in a Work;
+  iii. 저작물에 묘사된 개인의 이미지나 초상에 관한 퍼블리시티권 및 프라이버시권;
 
-  iv. rights protecting against unfair competition in regards to a Work,
-  subject to the limitations in paragraph 4(a), below;
+  iv. 아래 제4항 (a)의 제한사항을 조건으로, 저작물과 관련된 불공정 경쟁으로부터 보호받을 권리;
 
-  v. rights protecting the extraction, dissemination, use and reuse of data in
-  a Work;
+  v. 저작물의 데이터를 추출, 전파, 사용 및 재사용할 권리를 보호하는 권리;
 
-  vi. database rights (such as those arising under Directive 96/9/EC of the
-  European Parliament and of the Council of 11 March 1996 on the legal
-  protection of databases, and under any national implementation thereof,
-  including any amended or successor version of such directive); and
+  vi. 데이터베이스 권리(1996년 3월 11일 유럽의회 및 이사회의 데이터베이스의 법적 보호에 관한 지침 96/9/EC 및 그에 따른 모든 국내 이행 조치, 그리고 해당 지침의 모든 개정 또는 후속 버전에 따라 발생하는 권리와 같은); 그리고
 
-  vii. other similar, equivalent or corresponding rights throughout the world
-  based on applicable law or treaty, and any national implementations thereof.
+  vii. 적용 가능한 법률이나 조약, 그리고 그에 따른 모든 국내 이행 조치에 기초한 전 세계의 기타 유사, 동등 또는 이에 상응하는 권리.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention of,
-applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and
-unconditionally waives, abandons, and surrenders all of Affirmer's Copyright
-and Related Rights and associated claims and causes of action, whether now
-known or unknown (including existing as well as future claims and causes of
-action), in the Work (i) in all territories worldwide, (ii) for the maximum
-duration provided by applicable law or treaty (including future time
-extensions), (iii) in any current or future medium and for any number of
-copies, and (iv) for any purpose whatsoever, including without limitation
-commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes
-the Waiver for the benefit of each member of the public at large and to the
-detriment of Affirmer's heirs and successors, fully intending that such Waiver
-shall not be subject to revocation, rescission, cancellation, termination, or
-any other legal or equitable action to disrupt the quiet enjoyment of the Work
-by the public as contemplated by Affirmer's express Statement of Purpose.
+2. 권리 포기. 적용 가능한 법률이 허용하는 최대 한도 내에서, 그러나 이에 위배되지 않는 범위에서, 확인자는 이로써 공개적으로, 완전히, 영구적으로, 취소 불가능하게 그리고 무조건적으로 저작물에 대한 확인자의 모든 저작권 및 관련 권리와 관련된 청구 및 소송 원인을 포기, 방기하고 양도합니다. 이는 현재 알려져 있거나 알려지지 않은 것(기존 및 향후의 청구 및 소송 원인을 포함)을 모두 포함하며, (i) 전 세계 모든 영역에서, (ii) 적용 가능한 법률이나 조약이 정한 최대 기간 동안(향후 기간 연장 포함), (iii) 현재 또는 향후의 모든 매체에서 그리고 복제본의 수에 관계없이, 그리고 (iv) 상업적, 광고 또는 판촉 목적을 포함한 어떠한 목적으로도 적용됩니다("포기"). 확인자는 일반 대중의 각 구성원의 이익을 위해 그리고 확인자의 상속인과 승계인에게 불리하게 이러한 포기를 실행하며, 확인자의 명시적인 목적 선언문에서 고려된 바와 같이 대중의 저작물의 평온한 향유를 방해하기 위한 취소, 철회, 취소, 종료 또는 기타 법적 또는 형평법상의 조치의 대상이 되지 않도록 할 의도를 가지고 있습니다.
 
-3. Public License Fallback. Should any part of the Waiver for any reason be
-judged legally invalid or ineffective under applicable law, then the Waiver
-shall be preserved to the maximum extent permitted taking into account
-Affirmer's express Statement of Purpose. In addition, to the extent the Waiver
-is so judged Affirmer hereby grants to each affected person a royalty-free,
-non transferable, non sublicensable, non exclusive, irrevocable and
-unconditional license to exercise Affirmer's Copyright and Related Rights in
-the Work (i) in all territories worldwide, (ii) for the maximum duration
-provided by applicable law or treaty (including future time extensions), (iii)
-in any current or future medium and for any number of copies, and (iv) for any
-purpose whatsoever, including without limitation commercial, advertising or
-promotional purposes (the "License"). The License shall be deemed effective as
-of the date CC0 was applied by Affirmer to the Work. Should any part of the
-License for any reason be judged legally invalid or ineffective under
-applicable law, such partial invalidity or ineffectiveness shall not
-invalidate the remainder of the License, and in such case Affirmer hereby
-affirms that he or she will not (i) exercise any of his or her remaining
-Copyright and Related Rights in the Work or (ii) assert any associated claims
-and causes of action with respect to the Work, in either case contrary to
-Affirmer's express Statement of Purpose.
+3. 공공 라이선스 대안. 어떤 이유로든 포기의 일부가 적용 가능한 법률에 따라 법적으로 무효이거나 효력이 없는 것으로 판단되는 경우, 포기는 확인자의 명시적인 목적 선언문을 고려하여 허용되는 최대 한도까지 유지됩니다. 또한, 그러한 한도까지 확인자는 이로써 영향을 받는 각 개인에게 무상의, 양도 불가능한, 재허락 불가능한, 비독점적인, 취소 불가능한 그리고 무조건적인 라이선스를 부여하여 (i) 전 세계 모든 영역에서, (ii) 적용 가능한 법률이나 조약이 정한 최대 기간 동안(향후 기간 연장 포함), (iii) 현재 또는 향후의 모든 매체에서 그리고 복제본의 수에 관계없이, 그리고 (iv) 상업적, 광고 또는 판촉 목적을 포함한 어떠한 목적으로도 저작물에 대한 확인자의 저작권 및 관련 권리를 행사할 수 있도록 합니다("라이선스"). 이 라이선스는 확인자가 저작물에 CC0를 적용한 날짜부터 효력이 있는 것으로 간주됩니다. 어떤 이유로든 라이선스의 일부가 적용 가능한 법률에 따라 법적으로 무효이거나 효력이 없는 것으로 판단되는 경우, 그러한 부분적 무효 또는 무효력은 라이선스의 나머지 부분을 무효화하지 않으며, 이러한 경우 확인자는 이로써 (i) 저작물에 대한 자신의 남은 저작권 및 관련 권리를 행사하지 않거나 (ii) 저작물과 관련하여 관련된 청구 및 소송 원인을 주장하지 않을 것임을 확인합니다. 이는 모두 확인자의 명시적인 목적 선언문에 반하는 경우에 해당됩니다.
 
-4. Limitations and Disclaimers.
+4. 제한사항 및 면책조항.
 
-  a. No trademark or patent rights held by Affirmer are waived, abandoned,
-  surrendered, licensed or otherwise affected by this document.
+  a. 확인자가 보유한 어떠한 상표권이나 특허권도 이 문서에 의해 포기되거나, 방기되거나, 허락되거나 또는 달리 영향을 받지 않습니다.
 
-  b. Affirmer offers the Work as-is and makes no representations or warranties
-  of any kind concerning the Work, express, implied, statutory or otherwise,
-  including without limitation warranties of title, merchantability, fitness
-  for a particular purpose, non infringement, or the absence of latent or
-  other defects, accuracy, or the present or absence of errors, whether or not
-  discoverable, all to the greatest extent permissible under applicable law.
+  b. 확인자는 저작물을 있는 그대로 제공하며, 상품성, 특정 목적에의 적합성, 비침해 또는 잠재적이거나 기타 결함의 부재, 정확성, 또는 발견 가능 여부와 관계없이 오류의 존재 여부나 부재에 대한 보증을 포함하여 저작물에 관한 어떠한 종류의 보증도, 명시적, 묵시적, 법령상 또는 그 밖의 것을 불문하고, 적용 가능한 법률이 허용하는 최대 한도까지 제공하지 않습니다.
 
-  c. Affirmer disclaims responsibility for clearing rights of other persons
-  that may apply to the Work or any use thereof, including without limitation
-  any person's Copyright and Related Rights in the Work. Further, Affirmer
-  disclaims responsibility for obtaining any necessary consents, permissions
-  or other rights required for any use of the Work.
+  c. 확인자는 저작물이나 그 사용과 관련하여 적용될 수 있는 다른 사람들의 권리(저작물에 대한 다른 사람의 저작권 및 관련 권리를 포함하되 이에 국한되지 않음)를 해결할 책임을 부인합니다. 또한, 확인자는 저작물의 어떠한 사용에 필요한 동의, 허가 또는 기타 권리를 획득할 책임을 부인합니다.
 
-  d. Affirmer understands and acknowledges that Creative Commons is not a
-  party to this document and has no duty or obligation with respect to this
-  CC0 or use of the Work.
+  d. 확인자는 크리에이티브 커먼즈가 이 문서의 당사자가 아니며 이 CC0나 저작물의 사용과 관련하여 어떠한 의무나 책임도 없음을 이해하고 인정합니다.
 
-For more information, please see
+자세한 정보는 다음을 참조하세요
 <http://creativecommons.org/publicdomain/zero/1.0/>

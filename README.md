@@ -6,52 +6,75 @@
   </a>
 </p>
 
-A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.
+## 이 프로젝트는 PatrickJS에서 만든 프로젝트를 fork한 프로젝트입니다
 
-[Cursor AI](https://cursor.sh/) is an AI-powered code editor. `.cursorrules` files define custom rules for Cursor AI to follow when generating code, allowing you to tailor its behavior to your specific needs and preferences.
+링크는  [여기](https://github.com/PatrickJS/awesome-cursorrules)에서 확인할 수 있습니다.
 
-## Why .cursorrules?
+Cursor AI 경험을 향상시키기 위한 멋진 .cursorrules 파일 모음입니다.
 
-`.cursorrules` is a powerful feature in Cursor AI that allows developers to define project-specific instructions for the AI. Here's why you might want to use it:
+[Cursor AI](https://cursor.sh/)는 AI 기반 코드 에디터입니다. `.cursorrules` 파일은 Cursor AI가 코드를 생성할 때 따라야 할 사용자 정의 규칙을 정의하여 특정 요구사항과 선호도에 맞게 동작을 조정할 수 있게 해줍니다.
 
-1. **Customized AI Behavior**: `.cursorrules` files help tailor the AI's responses to your project's specific needs, ensuring more relevant and accurate code suggestions.
+## .cursorrules가 필요한 이유?
 
-2. **Consistency**: By defining coding standards and best practices in your `.cursorrules` file, you can ensure that the AI generates code that aligns with your project's style guidelines.
+`.cursorrules`는 개발자가 프로젝트별 지침을 AI에게 정의할 수 있게 해주는 Cursor AI의 강력한 기능입니다. 다음과 같은 이유로 사용하면 좋습니다:
 
-3. **Context Awareness**: You can provide the AI with important context about your project, such as commonly used methods, architectural decisions, or specific libraries, leading to more informed code generation.
+1. **AI 동작 커스터마이징**: `.cursorrules` 파일은 AI의 응답을 프로젝트의 특정 요구사항에 맞게 조정하여 더 관련성 있고 정확한 코드 제안을 보장합니다.
 
-4. **Improved Productivity**: With well-defined rules, the AI can generate code that requires less manual editing, speeding up your development process.
+2. **일관성**: `.cursorrules` 파일에서 코딩 표준과 모범 사례를 정의하여 AI가 프로젝트의 스타일 가이드라인에 맞는 코드를 생성하도록 할 수 있습니다.
 
-5. **Team Alignment**: For team projects, a shared `.cursorrules` file ensures that all team members receive consistent AI assistance, promoting cohesion in coding practices.
+3. **컨텍스트 인식**: 자주 사용되는 메서드, 아키텍처 결정 또는 특정 라이브러리와 같은 프로젝트에 대한 중요한 컨텍스트를 AI에 제공하여 더 정보에 기반한 코드 생성이 가능합니다.
 
-6. **Project-Specific Knowledge**: You can include information about your project's structure, dependencies, or unique requirements, helping the AI to provide more accurate and relevant suggestions.
+4. **생산성 향상**: 잘 정의된 규칙을 통해 AI는 수동 편집이 덜 필요한 코드를 생성할 수 있어 개발 프로세스가 빨라집니다.
 
-By creating a `.cursorrules` file in your project's root directory, you can leverage these benefits and enhance your coding experience with Cursor AI.
+5. **팀 조율**: 팀 프로젝트의 경우, 공유된 `.cursorrules` 파일을 통해 모든 팀원이 일관된 AI 지원을 받아 코딩 관행의 통일성을 촉진할 수 있습니다.
 
-## Contents
+6. **프로젝트별 지식**: 프로젝트의 구조, 종속성 또는 고유한 요구사항에 대한 정보를 포함하여 AI가 더 정확하고 관련성 있는 제안을 제공하도록 할 수 있습니다.
+
+프로젝트의 루트 디렉토리에 `.cursorrules` 파일을 생성하여 이러한 이점을 활용하고 Cursor AI와의 코딩 경험을 향상시킬 수 있습니다.
+
+## 사용 방법
+
+### 방법 1
+
+1. 아직 설치하지 않았다면 [Cursor AI](https://cursor.sh/)를 설치하세요.
+2. 위의 규칙들을 살펴보고 필요에 맞는 `.cursorrules` 파일을 찾으세요.
+3. 선택한 `.cursorrules` 파일을 프로젝트의 루트 디렉토리에 복사하세요.
+4. 프로젝트의 특정 요구사항에 맞게 규칙을 커스터마이징하세요.
 
 - [Awesome CursorRules ](#awesome-cursorrules-)
-  - [Why .cursorrules?](#why-cursorrules)
-  - [Contents](#contents)
-  - [Rules](#rules)
-    - [Frontend Frameworks and Libraries](#frontend-frameworks-and-libraries)
-    - [Backend and Full-Stack](#backend-and-full-stack)
-    - [Mobile Development](#mobile-development)
-    - [CSS and Styling](#css-and-styling)
-    - [State Management](#state-management)
-    - [Database and API](#database-and-api)
-    - [Testing](#testing)
-    - [Build Tools and Development](#build-tools-and-development)
-    - [Language-Specific](#language-specific)
-    - [Other](#other)
-  - [Directories](#directories)
-  - [How to Use](#how-to-use)
-  - [Contributing](#contributing)
-  - [License](#license)
+  - [Why .cursorrules?](#cursorrules가-필요한-이유)
+  - [사용 방법](#사용-방법)
+  - [규칙](#방법-1)
+    - [프론트엔드 프레임워크와 라이브러리](#프론트엔드-프레임워크와-라이브러리)
+    - [백엔드와 풀스택](#백엔드와-풀스택)
+    - [모바일 개발](#모바일-개발)
+    - [CSS와 스타일링](#css와-스타일링)
+    - [상태 관리](#상태-관리)
+    - [데이터베이스와 API](#데이터베이스와-api)
+    - [테스팅](#테스팅)
+    - [빌드 도구와 개발](#빌드-도구와-개발)
+    - [언어별](#언어별)
+    - [기타](#기타)
+  - [디렉토리](#디렉토리)
+  - [기여하기](#기여하기)
+  - [라이센스](#라이센스)
 
-## Rules
+## 기여하기
 
-### Frontend Frameworks and Libraries
+기여는 언제나 환영합니다! 공유하고 싶은 훌륭한 `.cursorrules` 파일이 있다면:
+
+1. 이 저장소를 포크하세요.
+2. `rules` 디렉토리에 새 폴더를 만드세요. 폴더 이름은 다음 패턴을 따라야 합니다:
+   `technology-focus-cursorrules-prompt-file`
+   예: `react-typescript-cursorrules-prompt-file`
+3. 새 폴더에 `.cursorrules` 파일을 추가하세요.
+4. 선택적으로 폴더에 README.md를 포함하여 크레딧과 간단한 설명을 제공하세요.
+5. 메인 README.md 파일을 업데이트하고 적절한 카테고리에 기여 내용을 추가하세요.
+6. 이 저장소의 루트에 있는 [`.cursorrules`](./.cursorrules) 파일의 가이드라인을 따르는지 확인하세요.
+7. 풀 리퀘스트를 제출하세요.
+
+### 프론트엔드 프레임워크와 라이브러리
+
 - [Angular (Novo Elements)](./rules/angular-novo-elements-cursorrules-prompt-file/.cursorrules)
 - [Angular (TypeScript)](./rules/angular-typescript-cursorrules-prompt-file/.cursorrules)
 - [Astro (TypeScript)](./rules/astro-typescript-cursorrules-prompt-file/.cursorrules)
@@ -87,7 +110,8 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 - [Vue 3 (Nuxt 3, TypeScript)](./rules/vue-3-nuxt-3-typescript-cursorrules-prompt-file/.cursorrules)
 - [Vue 3 (Composition API)](./rules/vue3-composition-api-cursorrules-prompt-file/.cursorrules)
 
-### Backend and Full-Stack
+### 백엔드와 풀스택
+
 - [Deno Integration](./rules/deno-integration-techniques-cursorrules-prompt-fil/.cursorrules)
 - [Elixir Engineer Guidelines](./rules/elixir-engineer-guidelines-cursorrules-prompt-file/.cursorrules)
 - [Elixir (Phoenix, Docker)](./rules/elixir-phoenix-docker-setup-cursorrules-prompt-fil/.cursorrules)
@@ -116,12 +140,14 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 - [WordPress (PHP, Guzzle, Gutenberg)](./rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-/.cursorrules)
 - [WordPress (macOS)](./rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt/.cursorrules)
 
-### Mobile Development
+### 모바일 개발
+
 - [React Native Expo](./rules/react-native-expo-cursorrules-prompt-file/.cursorrules)
 - [SwiftUI Guidelines](./rules/swiftui-guidelines-cursorrules-prompt-file/.cursorrules)
 - [TypeScript (Expo, Jest, Detox)](./rules/typescript-expo-jest-detox-cursorrules-prompt-file/.cursorrules)
 
-### CSS and Styling
+### CSS와 스타일링
+
 - [Tailwind CSS (Next.js Guide)](./rules/tailwind-css-nextjs-guide-cursorrules-prompt-file/.cursorrules)
 - [Tailwind (React, Firebase)](./rules/tailwind-react-firebase-cursorrules-prompt-file/.cursorrules)
 - [Tailwind (shadcn/ui Integration)](./rules/tailwind-shadcn-ui-integration-cursorrules-prompt-/.cursorrules)
@@ -130,19 +156,23 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 - [React (Styled Components)](./rules/react-styled-components-cursorrules-prompt-file/.cursorrules)
 - [React (Chakra UI)](./rules/react-chakra-ui-cursorrules-prompt-file/.cursorrules)
 
-### State Management
+### 상태 관리
+
 - [React (Redux, TypeScript)](./rules/react-redux-typescript-cursorrules-prompt-file/.cursorrules)
 - [React (MobX)](./rules/react-mobx-cursorrules-prompt-file/.cursorrules)
 - [React (React Query)](./rules/react-query-cursorrules-prompt-file/.cursorrules)
 
-### Database and API
+### 데이터베이스와 API
+
 - [GraphQL (Apollo Client)](./rules/react-graphql-apollo-client-cursorrules-prompt-file/.cursorrules)
 - [TypeScript (Axios)](./rules/typescript-axios-cursorrules-prompt-file/.cursorrules)
 
-### Testing
+### 테스팅
+
 - [TypeScript (Expo, Jest, Detox)](./rules/typescript-expo-jest-detox-cursorrules-prompt-file/.cursorrules)
 
-### Build Tools and Development
+### 빌드 도구와 개발
+
 - [Chrome Extension (JavaScript/TypeScript)](./rules/chrome-extension-dev-js-typescript-cursorrules-pro/.cursorrules)
 - [GitHub Code Quality](./rules/github-code-quality-cursorrules-prompt-file/.cursorrules)
 - [GitHub Instructions](./rules/github-cursorrules-prompt-file-instructions/.cursorrules)
@@ -154,8 +184,9 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 - [Tauri (Svelte, TypeScript Guide)](./rules/tauri-svelte-typescript-guide-cursorrules-prompt-f/.cursorrules)
 - [TypeScript Code Convention](./rules/typescript-code-convention-cursorrules-prompt-file/.cursorrules)
 
-### Language-Specific
-- [JavaScript/TypeScript Code Quality](./rules/javascript-typescript-code-quality-cursorrules-pro/.cursorrules)
+### 언어별
+
+- [JavaScript/TypeScript 코드 품질](./rules/javascript-typescript-code-quality-cursorrules-pro/.cursorrules)
 - [JavaScript (Chrome APIs)](./rules/javascript-chrome-apis-cursorrules-prompt-file/.cursorrules)
 - [Optimize (Rell Blockchain Code)](./rules/optimize-rell-blockchain-code-cursorrules-prompt-f/.cursorrules)
 - [Pandas (scikit-learn Guide)](./rules/pandas-scikit-learn-guide-cursorrules-prompt-file/.cursorrules)
@@ -187,9 +218,10 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 - [TypeScript (React)](./rules/typescript-react-cursorrules-prompt-file/.cursorrules)
 - [TypeScript (Clasp App Script)](./rules/typescript-clasp-cursorrules-prompt-file/.cursorrules)
 
-### Other
-- [ASCII Simulation Game](./rules/ascii-simulation-game-cursorrules-prompt-file/.cursorrules)
-- [Code Guidelines](./rules/code-guidelines-cursorrules-prompt-file/.cursorrules)
+### 기타
+
+- [ASCII 시뮬레이션 게임](./rules/ascii-simulation-game-cursorrules-prompt-file/.cursorrules)
+- [코드 가이드라인](./rules/code-guidelines-cursorrules-prompt-file/.cursorrules)
 - [DragonRuby Best Practices](./rules/dragonruby-best-practices-cursorrules-prompt-file/.cursorrules)
 - [Graphical Apps Development](./rules/graphical-apps-development-cursorrules-prompt-file/.cursorrules)
 - [Meta-Prompt](./rules/meta-prompt-cursorrules-prompt-file/.cursorrules)
@@ -197,42 +229,23 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 - [Unity (C#)](./rules/unity-cursor-ai-c-cursorrules-prompt-file/.cursorrules)
 - [Web App Optimization](./rules/web-app-optimization-cursorrules-prompt-file/.cursorrules)
 
-## Directories
+## 디렉토리
+
 - [CursorList](https://cursorlist.com)
 - [CursorDirectory](https://cursor.directory/)
 
-## How to Use
-### Method One
-1. Install [Cursor AI](https://cursor.sh/) if you haven't already.
-2. Browse the rules above to find a `.cursorrules` file that suits your needs.
-3. Copy the chosen `.cursorrules` file to your project's root directory.
-4. Customize the rules as needed for your specific project requirements.
-### Method Two
-1. Install [Cursor AI](https://cursor.sh/) if you haven't already.
-2. Install [vscode-cursor-rules](https://marketplace.visualstudio.com/items?itemName=BeilunYang.cursor-rules) extension.
-3. Open the command palette (Cmd+Shift+P or Ctrl+Shift+P) and type `Cursor Rules: Add .cursorrules`.
-4. Select and download the `.cursorrules` file that suits your needs.
-5. Customize the rules as needed for your specific project requirements.
+### Cursor에서 CursorRules 추가하기
 
+1. [Cursor AI](https://cursor.sh/)를 설치하세요. 아직 설치하지 않았다면 설치하세요.
+2. [vscode-cursor-rules](https://marketplace.visualstudio.com/items?itemName=BeilunYang.cursor-rules) 확장 프로그램을 설치하세요.
+3. 명령 팔레트를 엽니다. (Cmd+Shift+P 또는 Ctrl+Shift+P)
+4. `Cursor Rules: Add .cursorrules`를 선택하고 다운로드하세요.
+5. 프로젝트의 특정 요구사항에 맞게 규칙을 커스터마이징하세요.
 
-## Contributing
-
-Contributions are welcome! If you have a great `.cursorrules` file to share:
-
-1. Fork this repository.
-2. Create a new folder in the `rules` directory. The folder name should follow this pattern:
-   `technology-focus-cursorrules-prompt-file`
-   For example: `react-typescript-cursorrules-prompt-file`
-3. Add your `.cursorrules` file to the new folder.
-4. Optionally, include a README.md in the folder to provide credit and a brief description.
-5. Update the main README.md file, adding your contribution to the appropriate category.
-6. Ensure your contribution follows the guidelines in the [`.cursorrules`](./.cursorrules) file at the root of this repository.
-7. Submit a pull request.
-
-Please ensure your contribution is original or properly credited if based on existing work. Refer to the `.cursorrules` file in the root of this repository for detailed guidelines on formatting, naming conventions, and best practices for contributions.
+기여하는 내용이 원작이거나 기존 작업을 기반으로 한 경우 적절하게 크레딧을 표시해주세요. 기여에 대한 포맷팅, 명명 규칙 및 모범 사례에 대한 자세한 가이드라인은 이 저장소의 루트에 있는 `.cursorrules` 파일을 참조하세요.
 
 ---
 
-## License
+## 라이센스
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
